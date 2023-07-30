@@ -61,8 +61,6 @@ export class TaskStorage {
                     <i class="fa-solid fa-ellipsis-vertical"></i>
                   </a>
                   </div>
-                  
-              
             </li>
       `;
       const items = document.querySelectorAll('.list-item');
